@@ -1,1 +1,1 @@
-This is my attempt in accomplishing HackerRank's 30 Days of Code Challenge as part of the Tutorials in the Preparation Kits section.
+This is my attempt in accomplishing HackerRank's 30 Days of Code Challenge as part of the tutorials section.

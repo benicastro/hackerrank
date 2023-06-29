@@ -1,0 +1,1 @@
+This contains all the codes I have written to accomplish HackerRank's One Month Preparation Kit (Interview).
